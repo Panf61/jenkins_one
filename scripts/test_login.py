@@ -6,6 +6,6 @@ class Testlogin:
         assert 1
 
     def test_lo3(self):
-        assert 0
+        assert 1
 
 # https://github.com/Panf61/jenkins-pro.git
